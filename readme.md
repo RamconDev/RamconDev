@@ -26,8 +26,8 @@
 <br/>
 <p align="left">
   <a href="https://github.com/hugoybrahim/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hugoybrahim&show_icons=true&theme=react&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=hugoybrahim&theme=react&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ramcondev&show_icons=true&theme=react&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramcondev&theme=react&hide_border=true" />
   </a>
 </p>
 <br>
